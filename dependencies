@@ -1,0 +1,7 @@
+dependencies:
+  firebase_core: latest_version
+  firebase_auth: latest_version
+  google_sign_in: latest_version
+  permission_handler: latest_version
+  audioplayers: latest_version
+  flutter_audio_query: latest_version
