@@ -1,0 +1,9 @@
+  firebase_auth: ^4.5.2 # for login functionality
+  google_sign_in: ^6.0.1
+  hive: ^2.2.3 # for local storage
+  hive_flutter: ^1.1.0
+  provider: ^6.0.5 # for state management
+  audio_service: ^0.18.5 # to handle audio playback
+  just_audio: ^0.9.5 # to access and play music files
+  permission_handler: ^10.4.0 # for storage permissions
+  path_provider: ^2.1.5 # to access device storage
